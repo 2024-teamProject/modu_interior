@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image, ImageOps
 from streamlit_drawable_canvas import st_canvas
 import pandas as pd
-from hyejeong.demo.initializer2 import get_initializer
+from initializer import get_initializer
 import base64
 import io
 import re
