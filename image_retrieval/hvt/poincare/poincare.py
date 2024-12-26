@@ -116,33 +116,5 @@ def main():
     plt.close()
     print(f"전체 데이터 시각화 결과가 {output_path}에 저장되었습니다.")
 
-    # # 각 클래스별로 시각화
-    # class_names = dataset.classes
-    # for class_idx, class_name in enumerate(class_names):
-    #     class_mask = labels == class_idx
-    #     class_disk_x = disk_x[class_mask]
-    #     class_disk_y = disk_y[class_mask]
-
-    #     # Poincaré Ball 시각화
-    #     fig = plt.figure(figsize=(10, 10), clear=True)
-    #     ax = fig.add_subplot(111)
-    #     scatter = ax.scatter(class_disk_x, class_disk_y, c=[class_idx]*len(class_disk_x), alpha=.75, s=7, cmap="tab10")
-
-    #     # 외곽 원 추가
-    #     boundary = plt.Circle((0, 0), 1, fc="none", ec="black", linewidth=2)
-    #     ax.add_patch(boundary)
-    #     ax.set_xlim(-1.1, 1.1)
-    #     ax.set_ylim(-1.1, 1.1)
-    #     ax.set_aspect('equal', adjustable='datalim')
-    #     ax.axis("off")
-    #     plt.colorbar(scatter, ax=ax, label="Class")
-    #     plt.title(f"Class: {class_name}")
-
-    #     # 결과 저장
-    #     output_path = f"{class_name}_poincare_visualization2.jpg"
-    #     plt.savefig(output_path, format="jpg", dpi=300)
-    #     plt.close()
-    #     print(f"시각화 결과가 {output_path}에 저장되었습니다.")
-
 if __name__ == "__main__":
     main()
