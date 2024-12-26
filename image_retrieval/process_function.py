@@ -83,7 +83,6 @@ def extract_features(cropped_image, model_name='vgg16', cfg=None):
         raise ValueError("지원되지 않는 모델입니다. 'vgg16' 또는 'vit'을 선택하세요.")
     
     return features
-        
 
 def cosine_similarity(x, y):
     xy = np.dot(x, y)
