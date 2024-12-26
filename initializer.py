@@ -11,7 +11,7 @@ import os
 from tap import Tap
 import sys
 sys.path.append('/home/work/ModuInterior/hyejeong/demo/hvt')
-from model import init_model  # HVT 모델 초기화 코드
+from hvt.model import init_model  # HVT 모델 초기화 코드
 import hyptorch.pmath as pmath
 
 
