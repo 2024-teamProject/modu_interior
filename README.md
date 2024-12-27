@@ -10,15 +10,15 @@ Sample video
 
 https://www.youtube.com/watch?v=DIneYgeD1V8
 
----
-### 프로젝트 개요
+
+## 프로젝트 개요
 **생성형 모델 기반 가구 생성 및 추천 시스템**
 
 <img width="400" src="https://github.com/2024-teamProject/modu_interior/blob/main/img/modu_interior_flowchart.png"/>
 사용자가 실제 자신의 방과 간단한 가구 배치, 원하는 스타일을 입력하면, 해당 스타일의 가구가 방에 배치된 모습을 시뮬레이션으로 보여준 후, 생성된 가구와 유사한 실제 제품을 추천해주는 기능을 제공하고자 합니다. 이 서비스를 통해 소비자들은 맞춤형 가구를 찾는 데 걸리는 시간을 절약하고, 구매 실패로 인한 시간적·경제적 손실을 방지할 수 있습니다. 가구 브랜드 및 플랫폼 입장에서는 소비자의 신뢰도와 만족도를 향상시켜 매출 증가를 기대할 수 있으며, 동시에 소비자에게 인테리어 참여 경험을 제공함으로써 브랜드 마케팅에도 활용할 수 있습니다.
 
----
-### 주요 기능
+
+## 주요 기능
 #### 1. 인테리어 가구 생성 (Image Generation)
 <img width="600" src="https://github.com/2024-teamProject/modu_interior/blob/main/img/GLIGEN%20Input-Output.png"/>
 
@@ -41,10 +41,10 @@ https://www.youtube.com/watch?v=DIneYgeD1V8
 
 
 ---
-### 환경
+## 환경
 
 
 ---
-### 파일 설명
+## 파일 설명
 
 
