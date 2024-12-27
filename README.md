@@ -1,3 +1,7 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkillkimno%2FMORT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub downloads](https://img.shields.io/github/downloads/killkimno/MORT/total.svg?logo=github)](https://github.com/killkimno/MORT/releases)
+
+
 # 모두의 인테리어 (Modu Interior)
 - 기간 : 2024년 11월 25일 ~ 2024년 12월 27일 (약 5주)
 - 참여 인원 : 노혜정, 박윤수, 손명진, 차준영 (팀장)
