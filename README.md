@@ -6,7 +6,7 @@
 - 참여 인원 : 노혜정, 박윤수, 손명진, 차준영 (팀장)
 
 
-Sample video
+### Sample video
 
 https://github.com/user-attachments/assets/0d7d3603-50b8-4dae-84b1-78e43aca6aa1
 
