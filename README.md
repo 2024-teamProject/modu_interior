@@ -8,7 +8,8 @@
 
 Sample video
 
-https://www.youtube.com/watch?v=DIneYgeD1V8
+https://github.com/user-attachments/assets/0d7d3603-50b8-4dae-84b1-78e43aca6aa1
+
 
 
 ## 프로젝트 개요
