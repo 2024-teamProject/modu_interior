@@ -47,6 +47,7 @@ https://www.youtube.com/watch?v=DIneYgeD1V8
 
 ## 파일 설명
 
+```
 .
 ├── Image_generation
 │   ├── README.md
@@ -73,3 +74,4 @@ https://www.youtube.com/watch?v=DIneYgeD1V8
 ├── initializer.py
 └── main.py
 
+```
