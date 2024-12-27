@@ -1,11 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2024-teamProject%2Fmodu_interior&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub downloads](https://img.shields.io/github/downloads/2024-teamProject/modu_interior/total.svg?logo=github)](https://github.com/2024-teamProject/modu_interior/releases)
 
-
-
 # 모두의 인테리어 (Modu Interior)
 - 기간 : 2024년 11월 25일 ~ 2024년 12월 27일 (약 5주)
 - 참여 인원 : 노혜정, 박윤수, 손명진, 차준영 (팀장)
+
+
+Sample video
+
+https://www.youtube.com/watch?v=DIneYgeD1V8
+
+---
 
 ### 프로젝트 개요
 코로나19 이후 온라인 가구 시장은 꾸준히 성장해왔습니다. 올해 1월 기준, 작년 동월 대비 약 19.8%의 성장률을 기록하며 가파른 상승세를 보였습니다. 
