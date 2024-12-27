@@ -47,4 +47,29 @@ https://www.youtube.com/watch?v=DIneYgeD1V8
 
 ## 파일 설명
 
+.
+├── Image_generation
+│   ├── README.md
+│   ├── bg-for-hp-test.jpg
+│   ├── bg-for-prompt-test.jpeg
+│   ├── gligen-hp-test.ipynb
+│   ├── gligen-prompt-test-1.ipynb
+│   └── gligen-prompt-test-2.ipynb
+├── Image_retrieval
+│   ├── DB
+│   │   ├── database_check.ipynb
+│   │   ├── db_manager.py
+│   │   ├── feature_extractor.py
+│   │   ├── main.py
+│   │   └── process_dataset.py
+│   ├── hvt
+│   │   ├── hyptorch
+│   │   ├── poincare
+│   │   ├── model.py
+│   │   └── README.md
+├── SimSiam
+│   └── process_function.py
+├── img
+├── initializer.py
+└── main.py
 
