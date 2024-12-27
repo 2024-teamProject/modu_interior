@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/210aab65-5609-4bed-9512-6c07b6a90d5e
 
 
 
-## 파일 설명
+## Project Structure
 
 ```
 .
