@@ -1,14 +1,22 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2024-teamProject%2Fmodu_interior&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub downloads](https://img.shields.io/github/downloads/2024-teamProject/modu_interior/total.svg?logo=github)](https://github.com/2024-teamProject/modu_interior/releases)
 
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3715eafe-a2af-472b-acb6-54f2698b7b1b" width="500">
+</p>
+
+
 # 모두의 인테리어 (Modu Interior)
 - 기간 : 2024년 11월 25일 ~ 2024년 12월 27일 (약 5주)
 - 참여 인원 : 노혜정, 박윤수, 손명진, 차준영 (팀장)
 
-### Sample video
+# Shortest
+
+생성형 모델 기반 가구 생성 및 추천 시스템
 
 https://github.com/user-attachments/assets/210aab65-5609-4bed-9512-6c07b6a90d5e
-
 
 
 ## 프로젝트 개요
@@ -44,9 +52,30 @@ https://github.com/user-attachments/assets/210aab65-5609-4bed-9512-6c07b6a90d5e
 
 
 
-## 환경
+## Project Environment
 
+- OS: Ubuntu 22.04 (Linux)
+- CPU: Intel Xeon Gold 5218 @ 2.30GHz (4 Cores, x86_64)
+- GPU: Tesla V100
+- Python: 3.8+
 
+### Dependencies
+
+주요 라이브러리
+
+- torch==2.5.1, torchvision==0.20.1, torchaudio==2.5.1
+- numpy==2.2.1, scipy==1.14.1, scikit-learn==1.6.0
+- opencv-python==4.10.0.84, matplotlib==3.10.0
+- timm==1.0.12, pytorch-metric-learning==2.8.1
+- 기타 라이브러리는 requirements.txt에 포함
+
+Requirements 설치:
+
+```bash
+
+pip install -r requirements.txt
+
+```
 
 ## Project Structure
 
