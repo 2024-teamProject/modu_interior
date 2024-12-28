@@ -61,8 +61,6 @@ https://github.com/user-attachments/assets/210aab65-5609-4bed-9512-6c07b6a90d5e
 
 ### Dependencies
 
-주요 라이브러리
-
 - torch==2.5.1, torchvision==0.20.1, torchaudio==2.5.1
 - numpy==2.2.1, scipy==1.14.1, scikit-learn==1.6.0
 - opencv-python==4.10.0.84, matplotlib==3.10.0
