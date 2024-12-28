@@ -98,6 +98,7 @@ pip install -r requirements.txt
 │   └── process_function.py
 ├── img
 ├── initializer.py
+├── requirements.txt
 └── main.py
 
 ```
