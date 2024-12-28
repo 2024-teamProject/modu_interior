@@ -54,11 +54,7 @@ https://github.com/user-attachments/assets/210aab65-5609-4bed-9512-6c07b6a90d5e
 .
 ├── Image_generation
 │   ├── README.md
-│   ├── bg-for-hp-test.jpg
-│   ├── bg-for-prompt-test.jpeg
 │   ├── gligen-hp-test.ipynb
-│   ├── gligen-prompt-test-1.ipynb
-│   └── gligen-prompt-test-2.ipynb
 ├── Image_retrieval
 │   ├── DB
 │   │   ├── database_check.ipynb
