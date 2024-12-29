@@ -24,30 +24,30 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/팀원1깃허브주소">
-          <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-          <br /><sub><b>팀원1 이름</b></sub>
+        <a href="https://github.com/hjey">
+          <img src="https://github.com/user-attachments/assets/8b27768a-1353-4628-8827-58b3461838b4" width="100px;" alt=""/>
+          <br /><sub><b>노혜정</b></sub>
         </a>
         <br />
       </td>
       <td align="center">
-        <a href="https://github.com/팀원2깃허브주소">
-          <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-          <br /><sub><b>팀원2 이름</b></sub>
+        <a href="https://github.com/PARKYUNSU">
+          <img src="https://github.com/user-attachments/assets/d558530c-1de6-496a-a3ea-54dfc63350f8" width="100px;" alt=""/>
+          <br /><sub><b>박윤수</b></sub>
         </a>
         <br />
       </td>
       <td align="center">
-        <a href="https://github.com/팀원3깃허브주소">
-          <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-          <br /><sub><b>팀원3 이름</b></sub>
+        <a href="https://github.com/MyoungJinSon">
+          <img src="https://github.com/user-attachments/assets/251f2f91-c27c-41da-ab9b-689854d7313a" width="100px;" alt=""/>
+          <br /><sub><b>손명진</b></sub>
         </a>
         <br />
       </td>
       <td align="center">
-        <a href="https://github.com/팀원4깃허브주소">
-          <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-          <br /><sub><b>팀원4 이름</b></sub>
+        <a href="https://github.com/cjy8922">
+          <img src="https://github.com/user-attachments/assets/9b5f566b-33bc-4d28-9c6d-411db8f11ffc" width="100px;" alt=""/>
+          <br /><sub><b>차준영(팀장)</b></sub>
         </a>
         <br />
       </td>
