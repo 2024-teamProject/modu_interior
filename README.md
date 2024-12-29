@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/210aab65-5609-4bed-9512-6c07b6a90d5e
 - OS: Ubuntu 22.04 (Linux)
 - CPU: Intel Xeon Gold 5218 @ 2.30GHz (4 Cores, x86_64)
 - GPU: Tesla V100
-- Python: 3.8+
+- Python: 3.12.8
 
 ### Dependencies
 
