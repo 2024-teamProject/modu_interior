@@ -1,6 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2024-teamProject%2Fmodu_interior&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub downloads](https://img.shields.io/github/downloads/2024-teamProject/modu_interior/total.svg?logo=github)](https://github.com/2024-teamProject/modu_interior/releases)
 
+<h2 align="center">🎖️Tech Stack🎖️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/HuggingFace-%23FFC107?style=flat-square&logo=HuggingFace&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/StableDiffusion-%2346ABF2?style=flat-square&logoColor=white" alt="Stable Diffusion" /> 
+    <img src="https://img.shields.io/badge/Transformer-%230072C6?style=flat-square&logoColor=white" alt="Transformer" /> 
+    <img src="https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=SQLite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" />
+</p>
 
 
 <p align="center">
@@ -10,7 +20,40 @@
 
 # 모두의 인테리어 (Modu Interior)
 - 기간 : 2024년 11월 25일 ~ 2024년 12월 27일 (약 5주)
-- 참여 인원 : 노혜정, 박윤수, 손명진, 차준영 (팀장)
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/팀원1깃허브주소">
+          <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
+          <br /><sub><b>팀원1 이름</b></sub>
+        </a>
+        <br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/팀원2깃허브주소">
+          <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
+          <br /><sub><b>팀원2 이름</b></sub>
+        </a>
+        <br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/팀원3깃허브주소">
+          <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
+          <br /><sub><b>팀원3 이름</b></sub>
+        </a>
+        <br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/팀원4깃허브주소">
+          <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
+          <br /><sub><b>팀원4 이름</b></sub>
+        </a>
+        <br />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Shortest
 
