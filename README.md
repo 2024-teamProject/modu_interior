@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ```
 .
 ├── Image_generation                  # 이미지 생성 모듈
-│   └── gligen-hp-test.ipynb          # GLIGEN 테스트 파일
+│   └── gligen-hp-test.ipynb          # GLIGEN 가구이미지 생성 테스트 파일
 ├── Image_retrieval                   # 이미지 검색 모듈
 │   ├── DB                            # DB
 │   │   ├── database_check.ipynb      # Feature Shape 확인 파일
@@ -99,6 +99,6 @@ pip install -r requirements.txt
 │   │   └── similarity.py             # Simsiam 유사도계산 파일
 │   └── process_function.py           # 이미지 검색 및 추천 시스템 파일
 ├── initializer.py                    # 가구 이미지 생성 및 DB Feature 검색 파일
-├── main.py                           # 가구 생성 및 추천 시스템 Streamlit 파일
+├── main.py                           # 가구 이미지 생성 및 추천 시스템 Streamlit 파일
 └── requirements.txt                  # requirements
 ```
