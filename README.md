@@ -79,26 +79,26 @@ pip install -r requirements.txt
 
 ```
 .
-├── Image_generation
-│   ├── README.md
-│   ├── gligen-hp-test.ipynb
-├── Image_retrieval
-│   ├── DB
-│   │   ├── database_check.ipynb
-│   │   ├── db_manager.py
-│   │   ├── feature_extractor.py
-│   │   ├── main.py
-│   │   └── process_dataset.py
-│   ├── hvt
-│   │   ├── hyptorch
-│   │   ├── poincare
-│   │   ├── model.py
-│   │   └── README.md
-├── SimSiam
-│   └── process_function.py
-├── img
-├── initializer.py
-├── requirements.txt
-└── main.py
-
+├── Image_generation                  # 이미지 생성 모듈
+│   └── gligen-hp-test.ipynb          # GLIGEN 테스트 파일
+├── Image_retrieval                   # 이미지 검색 모듈
+│   ├── DB                            # DB
+│   │   ├── database_check.ipynb      # Feature Shape 확인 파일
+│   │   ├── db_manager.py             # DB 생성 및 관리 파일
+│   │   ├── feature_extractor.py      # 이미지 특징 추출기
+│   │   ├── main.py                   # DB 모듈 실행 파일
+│   │   └── process_dataset.py        # img 데이터 처리 파일
+│   ├── hvt                           # Hyperbolic Vision Transformers
+│   │   ├── hyptorch                  # Hyperbolic ViT
+│   │   ├── poincare                  # Poincaré 시각화
+│   │   ├── model.py                  # HVit model
+│   ├── SimSiam                       # Simple Siamese
+│   │   ├── simsiam                   # SimSiam
+│   │   ├── main_lincls.py            # SimSiam Pipeline 파일
+│   │   ├── main_simsiam.py           # SimSiam 실행 파일
+│   │   └── similarity.py             # Simsiam 유사도계산 파일
+│   └── process_function.py           # 이미지 검색 및 추천 시스템 파일
+├── initializer.py                    # 가구 이미지 생성 및 DB Feature 검색 파일
+├── main.py                           # Streamlit
+└── requirements.txt                  # requirements
 ```
