@@ -87,11 +87,11 @@ pip install -r requirements.txt
 │   │   ├── db_manager.py             # DB 생성 및 관리 파일
 │   │   ├── feature_extractor.py      # 이미지 특징 추출기
 │   │   ├── main.py                   # DB 모듈 실행 파일
-│   │   └── process_dataset.py        # img 데이터 처리 파일
+│   │   └── process_dataset.py        # 이미지 데이터 처리 파일
 │   ├── hvt                           # Hyperbolic Vision Transformers
-│   │   ├── hyptorch                  # Hyperbolic ViT
-│   │   ├── poincare                  # Poincaré 시각화
-│   │   ├── model.py                  # HVit model
+│   │   ├── hyptorch                  # HViT
+│   │   ├── poincare                  # Poincaré 시각화 파일
+│   │   ├── model.py                  # HViT model
 │   ├── SimSiam                       # Simple Siamese
 │   │   ├── simsiam                   # SimSiam
 │   │   ├── main_lincls.py            # SimSiam Pipeline 파일
